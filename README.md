@@ -40,7 +40,7 @@ UI 前端不应该去负责过滤那些恶心的机器脚手架代码。
 ---
 
 ## ⚔️ The Titanium Synthesis (钛金结合体)
-如果你目前正在使用 [OpenClaw-Defensive-Starter-Kit](https://github.com/your-username/OpenClaw-Defensive-Starter-Kit) 进行三库物理隔离（Enterprise / Personal / Public），你可以通过接入本项目，让系统进化为终极的 **Titanium (钛金版)** 形态。
+如果你目前正在使用 [OpenClaw-Defensive-Starter-Kit](https://github.com/91wan/OpenClaw-Defensive-Starter-Kit) 进行三库物理隔离（Enterprise / Personal / Public），你可以通过接入本项目，让系统进化为终极的 **Titanium (钛金版)** 形态。
 
 * **物理隔离 + 认知断头台**：在 `poc/titanium/zone_switch_hook.sh` 中，我们提供了跨区熔断探针。当你在终端从 Enterprise 目录切换到 Personal 目录时，探针会瞬间切断 Context Engine 的电源，物理火化上一个区域的短长记忆。
 * 彻底消灭将企业代码的残存 Token 污染给个人项目的隐患。打造真正的无状态神之领域。
